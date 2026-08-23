@@ -67,15 +67,16 @@ I'm a **3rd-year Computer Science Engineering student** passionate about **Java*
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Armash-Sidd&show_icons=true&theme=synthwave&count_private=true&hide_border=true&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Armash's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Armash-Sidd&layout=compact&theme=synthwave&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Armash-Sidd&show_icons=true&theme=synthwave&count_private=true&hide_border=true&title_color=a855f7&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" alt="Armash's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Armash-Sidd&layout=compact&theme=synthwave&hide_border=true&title_color=a855f7&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=Armash-Sidd&theme=synthwave&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakNum=C9D1D9" alt="Streak Stats" />
+  <img height="165em" src="https://streak-stats.demolab.com/?user=Armash-Sidd&theme=synthwave&hide_border=true&background=0D1117&ring=8B5CF6&fire=A855F7&currStreakNum=C9D1D9" alt="Streak Stats" />
 </div>
+
 
 ---
 
