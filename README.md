@@ -114,7 +114,7 @@ I'm a **3rd-year Computer Science Engineering student** passionate about **Java*
 <div align="center">
 
 <!-- CONTRIBUTION SNAKE PLACEHOLDER: Set up GitHub Actions workflow to generate output/github-contribution-grid-snake-dark.svg -->
-![Contribution Snake Placeholder](https://raw.githubusercontent.com/Armash-Sidd/Armash-Sidd/output/github-contribution-grid-snake-dark.svg)
+![Contribution Snake](https://raw.githubusercontent.com/Armash-Sidd/Armash-Sidd/output/github-contribution-grid-snake-dark.svg)
 
 <br/>
 
