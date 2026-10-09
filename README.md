@@ -51,6 +51,7 @@ I'm a **3rd-year Computer Science Engineering student** passionate about **Java*
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 
 ### **Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05138?style=for-the-badge&logo=git&logoColor=white)
