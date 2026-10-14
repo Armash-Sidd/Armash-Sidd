@@ -11,7 +11,7 @@
 
 <br/>
 
-![Profile Views](https://hits.sh/github.com/Armash-Sidd/Armash-Sidd.svg?style=flat-square&label=Profile%20views&color=a855f7&labelColor=555555)
+![Profile Views](https://hits.sh/github.com/Armash-Sidd/Armash-Sidd.svg?extraCount=60&style=flat-square&label=Profile%20views&color=a855f7&labelColor=555555)
 
 ---
 
