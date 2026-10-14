@@ -11,7 +11,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Armash-Sidd&color=a855f7&style=flat-square)
+![Profile Views](https://hits.sh/github.com/Armash-Sidd/Armash-Sidd.svg?style=flat-square&label=Profile%20views&color=a855f7&labelColor=555555)
 
 ---
 
@@ -56,6 +56,7 @@ I'm a **3rd-year Computer Science Engineering student** passionate about **Java*
 ### **Tools & Version Control**
 ![Git](https://img.shields.io/badge/Git-F05138?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ### 🌱  **Currently Learning**
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F79939?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -123,8 +124,9 @@ I'm a **3rd-year Computer Science Engineering student** passionate about **Java*
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
+<!-- ACTIVITY GRAPH (Temporarily disabled: upstream vercel deployment is down with HTTP 402)
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Armash-Sidd&theme=react-dark&hide_border=true&area=true&bg_color=0d1117&color=a855f7&line=8b5cf6&point=ffffff)
+-->
 
 </div>
 
